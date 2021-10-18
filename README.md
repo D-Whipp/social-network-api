@@ -1,5 +1,6 @@
 # social-network-api
 
+![App Screenshot](images/app-screenshot.png)
 [Demo Video](https://watch.screencastify.com/v/HlqY1jxJyJ7RHkQZXMv7)
 
 ## Description
