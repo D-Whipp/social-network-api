@@ -1,4 +1,4 @@
-const router = require("./user-routes");
+const router = require("express").Router();
 
 // gets all thoughts and creates new thought
 router.route("/").get(getAllThoughts).post(createThought);
