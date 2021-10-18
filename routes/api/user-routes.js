@@ -1,4 +1,13 @@
 const router = require("express").Router();
+const {
+  getAllUsers,
+  getUserById,
+  createUser,
+  addFriend,
+  updateUser,
+  deleteUser,
+  deleteFriend,
+} = require("../../controllers/user-controller");
 
 // gets all uses and post at /api/users
 router.route("/").get(getAllUsers).post(createUser);
