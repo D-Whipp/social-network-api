@@ -58,4 +58,6 @@ You can view more of my work at [my github](https://github.com/D-Whipp)
 
 ## Badges
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-brightgreen)
+![javascript](https://img.shields.io/badge/Language-JavaScript-brightgreen)
+![express](https://img.shields.io/badge/express-4.17.1-brightgreen)
+![mongoose](https://img.shields.io/badge/mongoose-6.0.11-brightgreen)
